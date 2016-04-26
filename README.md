@@ -1,2 +1,3 @@
 # first-repo
-testing github
+testing github account and creating first repo.
+checking commits
